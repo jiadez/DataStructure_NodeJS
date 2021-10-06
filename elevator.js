@@ -22,6 +22,8 @@ if(targetFloor==currentFloor){
 }
 //移動電梯至欲達樓層
 //currentFloor 移到 targetFloor
-console.log('to be continue....')
+if(targetFloor<currentFloor){
+    
+}
 
 }
