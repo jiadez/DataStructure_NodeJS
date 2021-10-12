@@ -52,7 +52,6 @@ while (true) {//無窮迴圈
 
     }
 
-//移動電梯至欲達樓層
-//currentFloor 移到 targetFloor
+//移動電梯至欲達樓層lll
 //if (targetFloor < currentFloor;)
 }
